@@ -1,0 +1,17 @@
+{
+    "Gate": {
+        "Library": 5,
+        "Canteen": 7
+    },
+    "Library": {
+        "Lab": 3,
+        "Auditorium": 6
+    },
+    "Canteen": {
+        "Lab": 4
+    },
+    "Lab": {
+        "Auditorium": 2
+    },
+    "Auditorium": {}
+}
